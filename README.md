@@ -1,10 +1,10 @@
 # COS30018 Intelligent Systems - Automatic Car License Detection and Recognition
 
-# Automatic Malaysia Car License Plate Detection and RecognitionDownload Automatic Malaysia Car License Plate Detection and Recognition
+## Automatic Malaysia Car License Plate Detection and Recognition
 Project: Design and implementation of a simple machine learning system for AI-powered smart on-road surveillance system. Students will apply computer vision techniques to solve two major challenges: detecting Malaysia car license plates on the road and recognizing characters and numbers on license plates.
 Modules involved: Machine learning, Deep Learning, Computer Vision
 
-## Summary
+### Summary
 License plate detection and recognition technology has a wide range of applications across various industries.
 For instance, in toll collection, automatic license plate recognition (ALPR) is used on highways to identify
 vehicles passing through toll booths, streamlining the tolling process and reducing traffic congestion. At
