@@ -1,7 +1,7 @@
-# COS30018 Intelligent Systems - Automatic Car License Detection and Recognition
+# COS30018 Intelligent Systems - Automatic Malaysia Car License Plate Detection and Recognition
 
-## Automatic Malaysia Car License Plate Detection and Recognition
 Project: Design and implementation of a simple machine learning system for AI-powered smart on-road surveillance system. Students will apply computer vision techniques to solve two major challenges: detecting Malaysia car license plates on the road and recognizing characters and numbers on license plates.
+
 Modules involved: Machine learning, Deep Learning, Computer Vision
 
 ### Summary
